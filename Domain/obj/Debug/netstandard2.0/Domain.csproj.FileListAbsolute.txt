@@ -1,0 +1,29 @@
+C:\Users\User\source\repos\API_2M1\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\User\source\repos\API_2M1\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\User\source\repos\API_2M1\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\User\source\repos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\User\source\repos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\User\OneDrive\Documentos\API_2M1\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\User\OneDrive\Documentos\API_2M1\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\User\OneDrive\Documentos\API_2M1\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\User\OneDrive\Documentos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\User\OneDrive\Documentos\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.pdb
+F:\PROGRAMACION II\API_2M1\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+F:\PROGRAMACION II\API_2M1\Domain\bin\Debug\netstandard2.0\Domain.dll
+F:\PROGRAMACION II\API_2M1\Domain\bin\Debug\netstandard2.0\Domain.pdb
+F:\PROGRAMACION II\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+F:\PROGRAMACION II\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+F:\PROGRAMACION II\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+F:\PROGRAMACION II\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+F:\PROGRAMACION II\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.dll
+F:\PROGRAMACION II\API_2M1\Domain\obj\Debug\netstandard2.0\Domain.pdb
